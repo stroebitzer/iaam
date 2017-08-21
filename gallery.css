@@ -4,7 +4,7 @@
 	text-align: center;
 	padding: 20px;
 	position: relative;
-	min-height:500px;
+	min-height:700px;
 }
 
 #gallery_image_1 {
@@ -97,7 +97,7 @@
 #gallery_image_4{
 	position:absolute;
     top:8%;
-	left:67%;
+	left:59%;
 	z-index:5;
 	opacity: .2;
 		
@@ -183,8 +183,8 @@
 
 #gallery_image_7{
 	position:absolute;
-    top:16%;
-	left:73%;
+    top:26%;
+	left:53%;
 	z-index:1;
 	opacity: .2;
 		
@@ -242,7 +242,7 @@
 #gallery_image_9{
 	position:absolute;
     top:58%;
-	left:42%;
+	left:52%;
 	z-index:11;
 	opacity: .2;
 		

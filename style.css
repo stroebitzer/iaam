@@ -12,13 +12,13 @@ a:link {
     color: yellow;
 }
 a:visited {
-    color: green;
+    color: yellow;
 }
 a:hover {
-    color: cyan;
+    color: yellow;
 }
 a:active {
-    color: blue;
+    color: yellow;
 }
 
 
