@@ -188,9 +188,9 @@
 	z-index:1;
 	opacity: .2;
 		
-	transform: rotate(159deg);
-    -moz-transform: rotate(159deg);
-    -webkit-transform: rotate(159deg);
+	transform: rotate(879);
+    -moz-transform: rotate(879deg);
+    -webkit-transform: rotate(879deg);
 	
 	-moz-transition:all 1s ease;
     -webkit-transition:all 1s ease;
