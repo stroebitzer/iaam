@@ -1,0 +1,43 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #898C90;
+}
+
+h1, h2 {
+	color: white;
+}
+
+a:link {
+    color: yellow;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: cyan;
+}
+a:active {
+    color: blue;
+}
+
+
+
+
+
+
+
+.blink {
+  animation: blink-animation 5s steps(5, start) infinite;
+  -webkit-animation: blink-animation 5s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
